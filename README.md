@@ -72,6 +72,6 @@ requirements.txt: Project dependencies.
 ### Results
 
 ## 📸 Screenshots Sentiment Prediction Result
-![Positive Prediction](Positive.png)
+![Positive Prediction](https://raw.githubusercontent.com/ChetanMestry3074/Web_Scraper/refs/heads/main/Positive.png)
 ![Negative Prediction](Negative.png)
 ![neutral Prediction](Neutral.png)
