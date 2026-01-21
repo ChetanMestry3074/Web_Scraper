@@ -72,6 +72,6 @@ requirements.txt: Project dependencies.
 ### Results
 
 ## 📸 Screenshots Sentiment Prediction Result
-![Positive Prediction](Screenshot 2026-01-21 153850.png)
+![Positive Prediction](Screenshot%202026-01-21%20153850.png)
 ![Negative Prediction](Screenshot 2026-01-21 025811.png)
 ![neutral Prediction](Screenshot 2026-01-21 025528.png)
